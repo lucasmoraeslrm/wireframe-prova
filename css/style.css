@@ -72,6 +72,7 @@ nav ul li{
 #box3 .box2{
     width: 690px ;
     padding: 30px;
+    text-align: justify;
 }
 
 #box3 .box2 button{
